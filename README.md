@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I’m Mercede!
+
+I’m a software engineer from New York, currently studying at Fullstack Academy.
+
+- 💻 JavaScript / React / Redux / Express.js / HTML / CSS
+
 
 <!--
 **mercedechen/mercedechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
