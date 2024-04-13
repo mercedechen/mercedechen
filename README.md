@@ -2,7 +2,7 @@
 
 I’m a software engineer from New York, currently studying at Fullstack Academy.
 
-- 💻 JavaScript / React / Redux / Express.js / HTML / CSS
+- 💻 JavaScript / React / Redux / Express.js / PostgreSQL / Prisma / Node.js / Wordpress / HTML / CSS
 
 
 <!--
